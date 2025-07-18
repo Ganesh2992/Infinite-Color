@@ -19,7 +19,7 @@ document.querySelector('#start').addEventListener('click',function(){
         function changeColor(){
         document.body.style.backgroundColor = randomColor();
         }
-        console.log("Started");
+        console.log("Started"); 
     }
 });
 
