@@ -11,7 +11,7 @@ const randomColor = function(){
 let intervalId=null; 
 
  
-const stopChangingColor = 
+
 
 document.querySelector('#start').addEventListener('click',function(){
     if(intervalId === null){
